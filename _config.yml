@@ -1,3 +1,14 @@
+name: "bitsoftly"
+description: "Software Quality Assurance | bitsoftly"
+
+url: "http://www.bitsoftly.com"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
+
 analytics :
   provider : google 
   google : 
