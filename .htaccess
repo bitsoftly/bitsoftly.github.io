@@ -1,0 +1,3 @@
+RewriteEngine on
+Rewritecond %{HTTP_HOST} !^www\.bitsoftly\.com
+RewriteRule (.*) http://www.bitsoftly.com/$1 [R=301,L]
