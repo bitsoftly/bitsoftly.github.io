@@ -1,0 +1,5 @@
+analytics :
+  provider : google 
+  google : 
+      tracking_id : 'UA-42470533-1'
+
