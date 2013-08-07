@@ -17,12 +17,15 @@ GitHub Pages is the placeholder of our website.
 Thanks to the Git, GitHub and GitHub Pages:
 
 - we don't care if a bad rm command accidentally deletes production files:
+- 
   ![alt text](http://i.imgur.com/Gf03RPe.gif "we don't care if a bad rm command accidentally deletes production files")
 
 - cooperation, bug fixing and updating is fast as F1 pitstop:
+- 
   ![alt text](http://i.imgur.com/BPKQ2hX.gif "cooperation, bug fixing and updating is fast as F1 pitstop")
 
 - when we show to the others the diffrences of using Git, GitHub and GitHub Pages in comparison to the standard methods:
+- 
   ![alt text](http://i.imgur.com/wD7lRWR.gif "when we show to the others the diffrences of using Git, GitHub and GitHub Pages in comparison to the standard methods")
 
 
