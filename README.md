@@ -5,9 +5,20 @@ bitsoftly.github.io
 ------------------
 To visit our page simply got to [www.bitsoftly.com](http://www.bitsoftly.com).
 
-- Jekyll
-- Porto Template
-- Twitter Bootstrap
+# Technologies we used
+
+* **Jekyll** - static web page generator
+* **Porto Template** - template repository
+* **Twitter Bootstrap** - CSS Framework
+
+# GitHub Pages
+
+GitHub Pages is the placeholder of our website.
+Thanks to the Git, GitHub and GitHub Pages:
+
+- we don't care if a bad rm command accidentally deletes production files:
+http://i.imgur.com/Gf03RPe.gif
+-![alt text](http://i.imgur.com/Gf03RPe.gif "we don't care if a bad rm command accidentally deletes production files")
 
 # Pyechonest
 
