@@ -54,7 +54,8 @@ To do that, simply:
 ~ $ git commit -a
 ```
 
-* Remember Password, Git bash under windows
+* Remember Password, Git bash under Windows Git Bash and Linux
+
 I've an automatic building service which download from a git private repository. The problem is that when it tries to clone repository it need to provide the password, because it is not remembered; so because there is no human interaction, it waits forever the password. How can I force it to remember from id_rsa.pub?
 
 For Windows users, just a note that this is how I setup the Git Bash environment to log me in once when I start it up. I edit my ~/.bashrc:
