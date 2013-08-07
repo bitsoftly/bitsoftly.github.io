@@ -3,6 +3,7 @@ bitsoftly.github.io
 
 **Bitsoftly Web Page**
 ------------------
+To visit our page simply got to [www.bitsoftly.com](http://www.bitsoftly.com).
 
 - Jekyll
 - Porto Template
