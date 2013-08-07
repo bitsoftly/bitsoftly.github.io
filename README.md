@@ -52,7 +52,27 @@ To do that, simply:
 ### There is also few shortcuts to make things quickly:
 ```bash
 ~ $ git commit -a
-```    
+```
+
+* Remember Password, Git bash under windows
+I've an automatic building service which download from a git private repository. The problem is that when it tries to clone repository it need to provide the password, because it is not remembered; so because there is no human interaction, it waits forever the password. How can I force it to remember from id_rsa.pub?
+
+For Windows users, just a note that this is how I setup the Git Bash environment to log me in once when I start it up. I edit my ~/.bashrc:
+```bash
+eval `ssh-agent`
+ssh-add
+```
+So when I start Git Bash, it looks like:
+
+```bash
+Welcome to Git (version 1.7.8-preview20111206)
+(etc)
+Agent pid 3376
+Enter passphrase for /c/Users/starmonkey/.ssh/id_dsa:
+Identity added: /c/Users/starmonkey/.ssh/id_dsa (/c/Users/starmonkey/.ssh/id_dsa)
+```
+And now I can ssh to other servers without logging in every time.
+
 
 ## Roadmap
 * Write additional subpages
