@@ -1,8 +1,8 @@
 ---
-title: About Us | bitsoftly
+title: About Us 
 layout: default
+tags: about
 ---
-
 # Lorem ipsum
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam feugiat magna nec blandit varius. Pellentesque consequat lectus mi, nec interdum augue vestibulum sed. Sed sit amet posuere odio. Etiam feugiat pharetra odio eu fermentum. Vestibulum porta sodales erat vitae dictum. Etiam nibh arcu, iaculis at lacus a, bibendum tempor lorem. Quisque cursus feugiat augue, nec feugiat quam pretium eu. Mauris aliquam lectus in justo posuere sagittis. Vestibulum gravida sit amet purus ornare vehicula.
 
