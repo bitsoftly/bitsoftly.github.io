@@ -84,5 +84,5 @@ And now I can ssh to other servers without logging in every time.
 
 ## Copyright
 
-* Copyright (c) 2013 Charlie Guo
+* Copyright (c) 2013 Piotr Kowalski [github.com/bitroniq](https://github.com/bitroniq)
 * See LICENSE for details.
