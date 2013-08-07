@@ -1,7 +1,7 @@
-# Bitsoftly Web Page
+Bitsoftly Web Page
 ===================
 bitsoftly.github.io
-------------------
+-------------------
 To visit our page simply got to [www.bitsoftly.com](http://www.bitsoftly.com).
 
 ## Technologies we used
@@ -49,3 +49,19 @@ To do that, simply:
 ```
 
 
+### There is also few shortcuts to make things quickly:
+```bash
+~ $ git commit -a
+```    
+
+## Roadmap
+* Write additional subpages
+* Better footer and header in Jekyll
+* Blog section
+* Jekyll pagination
+* Social media buttons
+
+## Copyright
+
+* Copyright (c) 2013 Charlie Guo
+* See LICENSE for details.
