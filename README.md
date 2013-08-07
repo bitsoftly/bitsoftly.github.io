@@ -29,6 +29,24 @@ Thanks to the Git, GitHub and GitHub Pages:
   ![alt text](http://i.imgur.com/wD7lRWR.gif "when we show to the others the diffrences of using Git, GitHub and GitHub Pages in comparison to the standard methods")
 
 
+# Repository cloning to your local directory
+
+* Go to your home directory `$ cd ~`
+* Copy the string `https://github.com/bitsoftly/bitsoftly.github.io.git`
+* Type in the console `$ git clone https://github.com/bitsoftly/bitsoftly.github.io.git`
+
+# Updating and checking the changes in Real Time
+
+Thanks to the [Jekyll](http://jekyllrb.com/) you can serve locally the files in repository. And what's more important, Jekyll automatically regenerates all the files whenever you make changes in them.
+To do that, simply:
+```bash
+~ $ gem install jekyll
+~ $ jekyll new myblog
+~ $ cd myblog
+~/myblog $ jekyll serve
+# => Now browse to http://localhost:4000
+```
+
 
 # Pyechonest
 
