@@ -38,7 +38,11 @@
 					</div>
 					<nav>
 						<ul class="nav nav-pills nav-main" id="mainMenu">
+						{% if page.nav == "home" %}
 							<li class="dropdown active">
+						{% else %}
+							<li class="dropdown">
+						{% endif %}
 								<a class="dropdown-toggle" href="index.html">
 									Home
 									<i class="icon-angle-down"></i>
