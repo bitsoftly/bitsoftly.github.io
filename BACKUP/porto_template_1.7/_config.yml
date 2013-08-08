@@ -1,0 +1,17 @@
+name: "bitsoftly"
+description: "Software Quality Assurance"
+
+url: "http://www.bitsoftly.com"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
+
+
+analytics :
+  provider : google 
+  google : 
+      tracking_id : 'UA-42470533-1'
+

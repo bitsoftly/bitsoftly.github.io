@@ -1,0 +1,6 @@
+GitHub pages takes care of it.
+We prefer now bitsoftly.com rather than www.bitsoftly.com
+
+#RewriteEngine on
+#Rewritecond %{HTTP_HOST} !^www\.bitsoftly\.com
+#RewriteRule (.*) http://www.bitsoftly.com/$1 [R=301,L]
